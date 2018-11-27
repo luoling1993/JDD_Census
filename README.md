@@ -1,3 +1,7 @@
+# 介绍
+
+京东2018 JDD比赛: [人口动态普查与预测](https://jdder.jd.com/index/jddDetail?matchId=3dca1a91ad2a4a6da201f125ede9601a)
+
 # 分数
 
 - ARIMA __0.1264__附近，与`andom_state`参数影响较大，最好可到**0.1260**；
